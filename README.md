@@ -1,5 +1,7 @@
 # Day 1 - Calculator
 
+# Built calculator with error handling
+
 ## Features
 - Addition
 - Subtraction
